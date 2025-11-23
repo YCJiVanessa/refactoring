@@ -1,3 +1,5 @@
+ee29a90 Task 1.1: fix CheckStyle issues
+1eb697c Update log.txt after Tasks 1.2–2.4
 77f2ca1 Task 2.4: fix CheckStyle issues
 24b9bc1 Task 2.3: fix CheckStyle issues
 8a8a3d3 Task 2.2: fix CheckStyle issues
