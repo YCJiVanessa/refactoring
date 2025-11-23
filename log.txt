@@ -1,0 +1,11 @@
+77f2ca1 Task 2.4: fix CheckStyle issues
+24b9bc1 Task 2.3: fix CheckStyle issues
+8a8a3d3 Task 2.2: fix CheckStyle issues
+2d8f6bd Task 2.1: fix CheckStyle issues
+b0b70f4 Task 1.2: fix CheckStyle issues
+2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
+b545fe2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
